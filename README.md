@@ -1,7 +1,6 @@
 <h1 align="center"> Hello, I'm Bihara Wijekoon 👋 </h1>
 <h3 align="center">🚀 Undergraduate 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bihara21" alt="abhinavdubeyad9" /> </p>
 
 - 🎓 I'm Studying Bsc(Special) Management Information Systems at NSBM Green University Sri-Lanka.
 - 🌱 I’m currently learning Software Testing.
@@ -12,5 +11,5 @@
 - ⚡ Fun fact: I have the potential to make a positive impact on the world around me, in ways big or small.
 
 ## Some Statistics About Me
-![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=bihara21&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+![Bihara's github stats](https://github-readme-stats.vercel.app/api?username=bihara21&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 
