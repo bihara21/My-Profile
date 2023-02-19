@@ -16,6 +16,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bihara21&layout=compact" />
 </a>
 
+### 🚦 Stats
+
+<a href="https://github.com/natee/website">
+  <img src="https://github-readme-stats.vercel.app/api?username=bihara21&show_icons=true&hide=commits" />
+</a>
+<a href="https://github.com/natee/website">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bihara21&layout=compact" />
+</a>
 
 
 
