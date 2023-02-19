@@ -10,6 +10,5 @@
 
 - ⚡ Fun fact: I have the potential to make a positive impact on the world around me, in ways big or small.
 
-## Some Statistics About Me
 ![Bihara's github stats](https://github-readme-stats.vercel.app/api?username=bihara21&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 
