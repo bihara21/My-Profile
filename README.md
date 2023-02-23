@@ -17,6 +17,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bihara21&layout=compact" />
 </a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bihara21&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bihara21" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bihara21&show_icons=true&locale=en&theme=tokyonight" alt="bihara21" /></p>
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bihara21&&theme=tokyonight" alt="bihara21" /></p>
+
 
 
 
