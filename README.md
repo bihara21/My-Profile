@@ -1,7 +1,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/87200540/220956107-a8335f82-9f33-4f4e-9d9f-027877922b8d.gif" height="500" width="100%"/>
+<img src="https://user-images.githubusercontent.com/87200540/220956107-a8335f82-9f33-4f4e-9d9f-027877922b8d.gif" height="600" width="100%"/>
 
 <h1 align="center"> Hello, I'm Bihara Wijekoon 👋 </h1>
 <h3 align="center">🚀 Undergraduate 🚀</h3>
