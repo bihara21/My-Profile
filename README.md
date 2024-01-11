@@ -10,6 +10,7 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/87200540/220956107-a8335f82-9f33-4f4e-9d9f-027877922b8d.gif" />
 
 - 🎓 I'm Studying Bsc(Special) Management Information Systems at NSBM Green University Sri-Lanka.
+- 🚀 I'm Working as a Support Engineer in IT Company SriLanka.
 - 🌱 I’m currently learning Software Testing.
 - 👯 I’m looking for a QA Internship.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/bihara-wijekoon-91ab23199/) 
